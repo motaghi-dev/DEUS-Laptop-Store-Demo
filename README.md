@@ -97,7 +97,7 @@ DEUS-Store/
 
 ---
 
-## ⚙ Technical Details
+##  Technical Details
 
 - Built with **Python 3.x**
 - Uses:
